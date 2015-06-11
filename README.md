@@ -13,6 +13,7 @@ and then we have party. We sleep on boats.
 Cmon! Lets make speakers list together.
 For now we have: (alhpabetical order):
  - Andrzej Krzywda -  'when rails presenters are a smell and what to do about it'
+ - Maciej Aniserowicz (guest from .Net community) - CQRS
  - Norbert Wójtowicz - TBA
  - Wojciech Piekutowski - TBA
  
