@@ -4,7 +4,7 @@ Website for RubyOnLakes event.
 Until we run website there are all details:
 
 
-In shortcut there is an idea to organize a little cruise/conference event in September.
+In shortcut there is an idea to organize a little cruise/conference event in August.
 #Schedule
 Between 9-12 AM we have some talks, then we go sail to next port, where we have 30-45m LT session
 and then we have party. We sleep on boats.
