@@ -45,7 +45,7 @@ Salining ethics rules - also that is not official event but holidays with friend
 # Sign in
 How can you sign in?
 please fill google form : 
-https://docs.google.com/…/1mAQ4Z6cIXBotIpG-Ngew6h…/viewform…
+https://docs.google.com/forms/d/1mAQ4Z6cIXBotIpG-Ngew6hhrZW5woify9Wq8nreUByo/viewform
 
 
 *****************************
