@@ -53,10 +53,10 @@ https://docs.google.com/forms/d/1mAQ4Z6cIXBotIpG-Ngew6hhrZW5woify9Wq8nreUByo/vie
 
 *****************************
 And the most important thing:
-This is not conference
-I'm not a organization
+This is not conference.
+I'm not a organization.
 That is a community event made by community for community.
-When we get advance i collect it to my personal account and handle it on my own - so i won't give you any invoices or stuff - we do it like friends
+When we get advance i collect it to my personal account and handle it on my own - so i won't give you any invoices or stuff - we do it like friends.
 If you are whole company that really want to have invoice for boats we can handle it by redirecting you company directly for
 boat-rentals-company and you will rent it from them with invoice (but i`m not sure about 30% discount that we already have then).
 I don't know what is the limit of the boats count for now, but i assume 50ppl is max that i can handle with my organization skills ;]
