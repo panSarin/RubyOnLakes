@@ -14,7 +14,7 @@ Cmon! Lets make speakers list together.
 For now we have: (alhpabetical order):
  - Andrzej Krzywda -  'when rails presenters are a smell and what to do about it'
  - Maciej Aniserowicz (guest from .Net community) - CQRS
- - Norbert Wójtowicz - TBA
+ - Norbert Wójtowicz - "We need to talk. It's not you, it's your application architecture sensibilities."
  - Wojciech Piekutowski - TBA
 
  
