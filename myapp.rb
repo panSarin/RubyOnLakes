@@ -6,8 +6,8 @@ get '/' do
   erb :index
 end
 
-get '/agenda' do
-  erb :agenda
+get '/details' do
+  erb :details
 end
 
 get '/contact' do
