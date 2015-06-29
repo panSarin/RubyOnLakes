@@ -19,7 +19,7 @@ For now we have: (alhpabetical order):
 
  
  Lightin talks:
- - Michał Matys - 'Small experiment to (hopefully) improve test coverage'
+ - Michał Matyas - 'Small experiment to (hopefully) improve test coverage'
  - Paweł Kondzior - 'Something about rust, if I'm allowed to talk non ruby things '
  - Adam Piotrowski - Basics of Sailing theory
 
